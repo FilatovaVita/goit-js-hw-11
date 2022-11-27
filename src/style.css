@@ -61,9 +61,7 @@ input::placeholder {
   margin: 10px 10px;
 }
 .photo-card {
-  height: 450px;
-  padding: 5px;
-  flex-basis: calc((100% - 10px * 4) / 5);
+  flex-basis: calc((100% - 20px * 3) / 4);
 }
 .info {
   display: flex;
